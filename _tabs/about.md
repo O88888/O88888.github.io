@@ -18,7 +18,7 @@ order: 4
 ---
 ## 🔗友链 ：
 
-[💎East导航](https://e888888.github.io)
+[💎East导航](https://nav-128.pages.dev)
 
 [💎East软仓](https://e888888.github.io/APP)
 
