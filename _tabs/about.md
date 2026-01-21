@@ -18,9 +18,9 @@ order: 4
 ---
 ### 🌐友链 ：
 
-[💎East导航](https://nav-128.pages.dev)
+[💎 East导航](https://nav-128.pages.dev)
 
-[💎East软仓](https://e888888.github.io/APP)
+[💎 East软仓](https://e888888.github.io/APP)
 
 ---
 **别忘了那些大雨滂沱，没有伞的日子。**
